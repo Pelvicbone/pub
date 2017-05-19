@@ -262,6 +262,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc01039-5184x3888-76.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc01039.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02405-3648x5472-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc02405.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
