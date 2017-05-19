@@ -276,8 +276,8 @@
               },
               {
                 "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/KZDZyzEMlg0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc02166-2592x1944-90.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc02166.jpg",
