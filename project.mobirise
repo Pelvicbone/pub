@@ -162,7 +162,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">\u001bDeborah Serlet</span>",
           "text": "Student LUCA School Of Arts 2017<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Photos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Videos</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Photos</a>  "
         },
         {
           "_inherit": "gallery1",
